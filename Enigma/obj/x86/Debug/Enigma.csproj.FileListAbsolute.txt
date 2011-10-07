@@ -1,0 +1,5 @@
+c:\users\prezes\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Enigma.exe
+c:\users\prezes\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Enigma.pdb
+c:\users\prezes\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\prezes\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\Enigma.exe
+c:\users\prezes\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\Enigma.pdb
